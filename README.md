@@ -5,6 +5,9 @@
 ■　衝突判定  
 - OnCollisionEnter2D(Collider2D collision) メソッド
 
+### Scripts
+- https://github.com/MAJIMUN-kobo/2026_AS1_Lesson03/blob/main/Assets/_AS1_Lesson03/Scripts/PlayerCollision.cs
+
 <img width="536" height="302" alt="as1_lesson03_20260908" src="https://github.com/user-attachments/assets/df64ee5c-a20b-4711-a24e-48bf548cad8d" />
 
 
