@@ -3,6 +3,8 @@
 
 ## 2026-09-08 Update.
 ■　衝突判定  
+- OnCollisionEnter2D(Collider2D collision) メソッド
+
 <img width="536" height="302" alt="as1_lesson03_20260908" src="https://github.com/user-attachments/assets/df64ee5c-a20b-4711-a24e-48bf548cad8d" />
 
 
